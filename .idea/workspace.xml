@@ -1,29 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8defe823-aaf0-48e9-91a2-fbf26866840f" name="Changes" comment="" />
+    <list default="true" id="8defe823-aaf0-48e9-91a2-fbf26866840f" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/code/learn/cookLasagna/CookYourLasagnaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/learn/cookLasagna/decription" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/learn/cookLasagna/CookYourLasagna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/learn/cookLasagna/CookYourLasagna.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Ne2dZrJLKrJqPECBaUUJRCCGzv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="code.learn.cookLasagna" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CookYourLasagnaTest.preparation_time_in_minutes_for_multiple_layers">
+    <configuration name="CookYourLasagnaTest.expected_minutes_in_oven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.learn.cookLasagna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code.learn.cookLasagna" />
+      <option name="MAIN_CLASS_NAME" value="code.learn.cookLasagna.CookYourLasagnaTest" />
+      <option name="METHOD_NAME" value="expected_minutes_in_oven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CookYourLasagnaTest.preparation_time_in_minutes_for_multiple_layers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.learn.cookLasagna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code.learn.cookLasagna" />
+      <option name="MAIN_CLASS_NAME" value="code.learn.cookLasagna.CookYourLasagnaTest" />
+      <option name="METHOD_NAME" value="preparation_time_in_minutes_for_multiple_layers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CookYourLasagnaTest.preparation_time_in_minutes_for_one_layer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.learn.cookLasagna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code.learn.cookLasagna" />
+      <option name="MAIN_CLASS_NAME" value="code.learn.cookLasagna.CookYourLasagnaTest" />
+      <option name="METHOD_NAME" value="preparation_time_in_minutes_for_one_layer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CookYourLasagnaTest.remaining_minutes_in_oven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.learn.cookLasagna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code.learn.cookLasagna" />
+      <option name="MAIN_CLASS_NAME" value="code.learn.cookLasagna.CookYourLasagnaTest" />
+      <option name="METHOD_NAME" value="remaining_minutes_in_oven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CookYourLasagnaTest.total_time_in_minutes_for_one_layer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.learn.cookLasagna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code.learn.cookLasagna" />
+      <option name="MAIN_CLASS_NAME" value="code.learn.cookLasagna.CookYourLasagnaTest" />
+      <option name="METHOD_NAME" value="total_time_in_minutes_for_one_layer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CookYourLasagnaTest.preparation_time_in_minutes_for_multiple_layers" />
+        <item itemvalue="JUnit.CookYourLasagnaTest.preparation_time_in_minutes_for_one_layer" />
+        <item itemvalue="JUnit.CookYourLasagnaTest.expected_minutes_in_oven" />
+        <item itemvalue="JUnit.CookYourLasagnaTest.remaining_minutes_in_oven" />
+        <item itemvalue="JUnit.CookYourLasagnaTest.total_time_in_minutes_for_one_layer" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,8 +164,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680010320362</updated>
-      <workItem from="1680010321062" duration="3000" />
+      <workItem from="1680010321062" duration="2063000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
